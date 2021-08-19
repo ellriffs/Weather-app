@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
+
+.forecast-summaries {
+    position: relative;
+    bottom: -25rem;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 7px double white;
+    width: 13%;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 2rem;;
+    
+    
+}
+
+.forecast-summary_temperature{
+    padding: 2rem;
+}
+
+.forecast-summary_description{
+    padding: 1rem;
+}
+
+.forecast-summary_icon{
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+
+
+.btn{
+    font-family: 'Cousine';
+    border: none;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    font-size: 1rem;
+    margin: 2rem;
+    height: 3rem;
+    background: transparent;
+    color:white;
+    border-radius: 10%;
+    opacity: 100%;
+    text-shadow:1px 1px rgba(0, 0, 0, 0.6) ;
+}
+
+.btn:hover{
+    opacity: 70%;
+}

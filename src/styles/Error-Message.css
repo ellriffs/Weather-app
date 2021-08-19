@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.Error-Message{
+    font-family: 'Press Start 2p';
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    line-height: 3rem;
+    text-align: center;
+    top: 20rem;
+    border-bottom: 3px white double;
+    width: 100%;
+}

@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
+
+
+body {
+  height: 135vh;
+  width: 95vw;
+  margin: 0;
+  font-family: 'Cousine', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(./Assets/background.jpg), linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3));
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.prop{
+  text-align: center;
+  font-size: 2rem;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
