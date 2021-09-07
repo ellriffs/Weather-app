@@ -37,11 +37,11 @@
     background: transparent;
     color:white;
     border-radius: 10%;
-    opacity: 100%;
+    opacity: 1;
     text-shadow:1px 1px rgba(0, 0, 0, 0.6) ;
     
 }
 
 .submit:hover{
-    opacity: 80%;
+    opacity: 0.8;
 }

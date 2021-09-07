@@ -51,10 +51,10 @@
     background: transparent;
     color:white;
     border-radius: 10%;
-    opacity: 100%;
+    opacity: 1;
     text-shadow:1px 1px rgba(0, 0, 0, 0.6) ;
 }
 
 .btn:hover{
-    opacity: 70%;
+    opacity: 0.7;
 }
